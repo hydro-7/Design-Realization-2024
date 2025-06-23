@@ -1,4 +1,4 @@
-# Design-Realization-2024
+# Design Realization 2024
 # ESP32 Sensor Data Processing and Transmission
 
 This project leverages an ESP32 to collect sensor data and send it to an ESP8266 receiver via two possible pathways:
